@@ -1,7 +1,7 @@
 -- mysql
-CREATE DATABASE ciisa_backend_v1_71;
-CREATE USER 'ciisa_backend_v1_71'@'localhost' IDENTIFIED BY 'l4cl4v3-c11s4';
-GRANT ALL PRIVILEGES ON ciisa_backend_v1_71.* TO 'ciisa_backend_v1_71'@'localhost';
+CREATE DATABASE ciisa_backend_v1_eva2_B;
+CREATE USER 'ciisa_backend_v1_eva2_B'@'localhost' IDENTIFIED BY 'l4cl4v3-c11s4';
+GRANT ALL PRIVILEGES ON ciisa_backend_v1_eva2_B* TO 'ciisa_backend_v1_eva2_B'@'localhost';
 FLUSH PRIVILEGES;
 
 CREATE TABLE mantenedor(
